@@ -1,0 +1,12 @@
+numpy
+scipy
+matplotlib
+pandas
+scikit-learn
+tqdm
+jupyter
+jupyterlab
+# seaborn
+gym
+ffmpeg
+graphviz
